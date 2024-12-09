@@ -45,7 +45,7 @@ on the devices and browsers this has been tested on, as well as any relevant
 images for UI changes._
 
 ## Added/updated tests?
-_We encourage you to keep the code coverage percentage at 80% and above._
+_We encourage you to keep the code coverage percentage at 80% and above. Please refer to the [Digital Land Testing Guidance](https://digital-land.github.io/technical-documentation/development/testing-guidance/) for more information._
 
 - [ ] Yes
 - [ ] No, and this is why: _please replace this line with details on why tests
