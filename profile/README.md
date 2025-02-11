@@ -1,5 +1,6 @@
 ## Useful Links
 
+https://digital-land.github.io/specification/
 https://digital-land.github.io/technical-documentation/
 
 <!--
