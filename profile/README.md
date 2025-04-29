@@ -1,8 +1,9 @@
 ## Useful Links
 
-https://digital-land.github.io/specification/
-
-https://digital-land.github.io/technical-documentation/
+🙋‍♀️ [Quick start](https://digital-land.github.io/quickstart/)
+👩‍💻 [Team handbook](https://handbook.planning.data.gov.uk/)
+🧙 [Specifications](https://digital-land.github.io/specification)
+✏️ [Technical documentation](https://digital-land.github.io/technical-documentation/)
 
 <!--
 
